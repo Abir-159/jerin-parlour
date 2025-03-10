@@ -1,7 +1,7 @@
 import React from "react";
-import skin from "../../../assets/group1374.png";
-import face from "../../../assets/group1373.png";
-import hair from "../../../assets/group1372.png";
+import skin from "./group1374.png";
+import face from "./group1373.png";
+import hair from "./group1372.png";
 
 export default function Services() {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import woman from "../../../assets/woman.png";
+import woman from "./woman.png";
 
 export default function Banner() {
   return (

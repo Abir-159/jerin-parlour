@@ -1,7 +1,7 @@
 import React from "react";
-import shepard from "../../../assets/shepard.jpg";
-import geralt from "../../../assets/geralt.jpg";
-import chief from "../../../assets/chief.jpg";
+import shepard from "./shepard.jpg";
+import geralt from "./geralt.jpg";
+import chief from "./chief.jpg";
 
 export default function Reviews() {
   return (

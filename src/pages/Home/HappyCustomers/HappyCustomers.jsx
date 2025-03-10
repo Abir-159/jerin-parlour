@@ -1,5 +1,5 @@
 import React from "react";
-import faceMask from "../../../assets/facemask.png";
+import faceMask from "./facemask.png";
 
 export default function HappyCustomers() {
   return (

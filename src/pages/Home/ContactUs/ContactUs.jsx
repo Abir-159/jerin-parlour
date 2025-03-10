@@ -2,23 +2,6 @@ import React from "react";
 
 export default function ContactUs() {
   return (
-    //         <div className="text-lg p-3 space-x-10">
-    //           <input className="bg-white p-4 w-85" placeholder="First Name" />
-    //           <input className="bg-white p-4 w-85" placeholder="Last Name" />
-    //         </div>
-    //         <div className="text-lg p-3 space-x-10">
-    //           <input className="bg-white p-4 w-85" placeholder="Email Address" />
-    //           <input className="bg-white p-4 w-85" placeholder="Phone Number" />
-    //         </div>
-    //         <div className="text-lg p-3 w-fit">
-    //           <textarea
-    //             className="bg-white p-4 w-180"
-    //             placeholder="Your Message"
-    //           ></textarea>
-    //         </div>
-    //         <div>
-    //           <button className="bg-pink-500 text-white text-lg px-8 py-4 rounded-md hover:bg-pink-600">
-    //             Send Message
 
     <section className="bg-[#FFF9F4]">
       <div className="container mx-auto px-4 pt-20 pb-10 flex flex-col items-center">
